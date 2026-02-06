@@ -1,58 +1,61 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## CARECOMPANION: A SMART CHATBOT FOR MENTAL HEALTH AND EMOTIONAL SUPPORT
+
+CareCompanion is an AI-based chatbot that detects emotions using NLP and provides instant mental health and emotional support.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+
+CareCompanion is an AI-powered mental health chatbot designed to provide emotional support through interactive conversations. It uses NLP to detect user emotions like stress, anxiety, and sadness, and responds with empathetic messages and self-care suggestions. Available 24/7, it promotes mental well-being in a private and user-friendly way.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+Real-Time Chat Support – Users can interact with the chatbot through a simple chat interface.
+Emotion Detection – Identifies emotions like stress, anxiety, sadness, and happiness using NLP.
+Empathetic Responses – Provides supportive and human-like responses based on user feelings.
+Self-Care Suggestions – Offers coping strategies, motivational tips, and relaxation techniques.
+Crisis Detection & Guidance – Detects severe distress and suggests professional help or helplines.
+Privacy-Friendly Interaction – Ensures a safe and non-judgmental environment for users.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+
+Python 3.x
+Flask Framework
+NLP Libraries (NLTK / spaCy)
+Machine Learning Libraries (Scikit-learn, Pandas, NumPy)
+Database (SQLite / JSON / CSV)
+Code Editor (VS Code recommended)
+Web Browser (Chrome / Edge)
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="846" height="519" alt="architecture-diagram" src="https://github.com/user-attachments/assets/46d9fb00-a627-4685-b0d2-1f8826c51818" />
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Login/Signup page
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="674" height="610" alt="image" src="https://github.com/user-attachments/assets/e8076729-783c-4959-ab2c-a047a7f8f0a3" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - AI Chatbot
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+<img width="977" height="603" alt="image" src="https://github.com/user-attachments/assets/b37ba050-0877-4f38-bddb-1c39fbc527a9" />
 
+### Output3 - Crisis Alert Mail
+
+<img width="633" height="619" alt="image" src="https://github.com/user-attachments/assets/d9bdc46f-3e91-4882-bcd0-bde50134e3b7" />
+
+Detection Accuracy: 90 %
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+CareCompanion successfully detects user emotions using NLP and provides appropriate supportive responses instantly. It improves user interaction by offering self-care tips and coping strategies.
+
+The chatbot increases accessibility to basic mental health support by providing 24/7 assistance in a private and non-judgmental manner. It helps reduce stress, anxiety, and promotes mental well-being.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+
+1. World Health Organization, “Mental health,” WHO, 2023. [Online]. Available: https://www.who.int/health-topics/mental-health
+2. N. F. A. A. Abd-Alrazaq, M. Alajlani, D. Alalwan, and M. Househ, “An overview of the features of chatbots in mental health: A scoping review,” International Journal of Medical Informatics, vol. 132, pp. 103978, 2019.
 
 
 
